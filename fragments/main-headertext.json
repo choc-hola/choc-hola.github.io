@@ -1,9 +1,10 @@
 {
   "images": [
     {
-      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1550609340/Choco-hola-3_small_hkbqii.jpg"
+      "src": "https://res.cloudinary.com/gwenaelp/image/upload/v1650362854/chocolat_nantes_plf6qc.png",
+      "title": "Venez découvrir le vrai goût du chocolat !   Comme au temps des Mayas..."
     }
   ],
   "title": "Choc-Hola",
-  "subtitle": "Nous sommes ouverts du mardi au vendredi de 10h00 à 13h00 et de 14h00 à 19h00 et le samedi de 10h00 à 19h00"
+  "subtitle": "Fabricant de chocolat à Nantes"
 }
